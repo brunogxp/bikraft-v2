@@ -71,3 +71,10 @@
     grid-template-columns: 1fr;
   }
 }
+
+@media (max-width: 300px) {
+  .seguros-item a {
+    width: 200px;
+  }
+}
+
