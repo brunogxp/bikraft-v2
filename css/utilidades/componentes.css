@@ -113,7 +113,7 @@
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 400px) {
   .botao {
     font-size: 0.875rem;
   }
